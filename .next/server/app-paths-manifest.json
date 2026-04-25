@@ -1,6 +1,4 @@
 {
   "/page": "app/page.js",
-  "/(workspace)/playground/page": "app/(workspace)/playground/page.js",
-  "/(workspace)/dashboard/page": "app/(workspace)/dashboard/page.js",
-  "/(workspace)/settings/page": "app/(workspace)/settings/page.js"
+  "/(workspace)/playground/page": "app/(workspace)/playground/page.js"
 }
